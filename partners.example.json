@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Партнер 1",
+    "raffle_date": "2026-10-18",
+    "channel_id": -71234567890,
+    "channel_url": "https://max.ru/partner1",
+    "promo_where": "сайте partner1.ru",
+    "promo_until": "2026-11-30",
+    "prize": "сертификат на 5000 ₽",
+    "prize_instruction": "напиши в поддержку партнера и пришли скриншот этого сообщения.",
+    "winners_count": 3,
+    "promo_file": "promocodes/partner1.txt"
+  },
+  {
+    "id": 2,
+    "name": "Партнер 2",
+    "raffle_date": "2026-10-19",
+    "channel_id": -79876543210,
+    "channel_url": "https://max.ru/partner2",
+    "promo_where": "в приложении Partner 2",
+    "promo_until": "2026-11-30",
+    "prize": "годовая подписка",
+    "prize_instruction": "дождись письма от партнера.",
+    "winners_count": 5,
+    "promo_file": "promocodes/partner2.txt"
+  }
+]
